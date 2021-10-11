@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on Deep Learning and Computer Vision.
+🔭 I’m currently working on High Performance Computing.
 <!--
 **gsc74/gsc74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
